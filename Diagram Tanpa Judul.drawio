@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T01:14:12.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SVU1AJq_o5zBgshF5gK6" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-12T01:16:45.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rn4_kRmipaTPdYVC2kQD" version="22.0.4" type="github" pages="5">
   <diagram name="Halaman-1" id="zievfR8BE4Mrv5VviONW">
     <mxGraphModel dx="1500" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -700,7 +700,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ekOFmilV_nV1TDU-TGQr-54" value="" style="group;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="240" y="180" width="700" height="400" as="geometry" />
+          <mxGeometry x="235" y="190" width="700" height="400" as="geometry" />
         </mxCell>
         <mxCell id="ekOFmilV_nV1TDU-TGQr-1" value="Member" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="ekOFmilV_nV1TDU-TGQr-54" vertex="1">
           <mxGeometry x="109.80392156862744" y="152" width="82.3529411764706" height="47.99999999999999" as="geometry" />
@@ -730,7 +730,7 @@
           <mxGeometry x="631.3725490196078" y="72" width="68.62745098039215" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ekOFmilV_nV1TDU-TGQr-35" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#eeeeee;strokeColor=#36393d;" parent="ekOFmilV_nV1TDU-TGQr-54" vertex="1">
-          <mxGeometry x="301.96078431372547" y="154.4" width="82.3529411764706" height="47.99999999999999" as="geometry" />
+          <mxGeometry x="294.99999999999994" y="148" width="108.04" height="62.4" as="geometry" />
         </mxCell>
         <mxCell id="ekOFmilV_nV1TDU-TGQr-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-8" target="ekOFmilV_nV1TDU-TGQr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
