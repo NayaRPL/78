@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T00:27:35.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5-WTW-ZPS9fe7qiKS-PC" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-12T00:47:51.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_2AlnAWOH0mUAfqCz4e8" version="22.0.4" type="github" pages="4">
   <diagram name="Halaman-1" id="zievfR8BE4Mrv5VviONW">
     <mxGraphModel dx="624" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -169,11 +169,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p6ZGhaoFS9OTpx_zbjbu" name="Halaman-2">
-    <mxGraphModel dx="2625" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="484" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ITg-j0ly1bmxTYYZntgk-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ITg-j0ly1bmxTYYZntgk-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120" y="120" width="920" height="510" as="geometry" />
         </mxCell>
         <mxCell id="G_HowqqBa3UaNG1oS3yh-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Sistem informasi&amp;nbsp;&lt;br&gt;Pemesana&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="ITg-j0ly1bmxTYYZntgk-1" vertex="1">
@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7fXpKsFOSEUkc3rEzZ2G" name="Halaman-3">
-    <mxGraphModel dx="509" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="645" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -689,6 +689,119 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="690" y="270" as="sourcePoint" />
             <mxPoint x="820" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Yl__mvm3U_gDQrbURzez" name="Halaman-4">
+    <mxGraphModel dx="968" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="170" width="910" height="446.08" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-1" value="Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="142.7450980392157" y="169.5104" width="107.05882352941177" height="53.529599999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-5" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="151.66666666666669" y="35.6864" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-8" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry y="53.529599999999995" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-10" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="53.529411764705884" y="285.4912" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-18" value="Tanggal Pemesanan" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="303.33333333333337" y="276.5696" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-22" value="Jasa Foto" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="624.5098039215686" y="173.07904" width="107.05882352941177" height="53.529599999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-25" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="579.9019607843138" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-26" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="713.7254901960785" y="8.9216" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-27" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="820.7843137254903" y="80.2944" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-35" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="392.54901960784315" y="172.18688" width="107.05882352941177" height="53.529599999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-8" target="ekOFmilV_nV1TDU-TGQr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8.92156862745098" y="205.1968" as="sourcePoint" />
+            <mxPoint x="151.66666666666669" y="196.27519999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.12;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-10" target="ekOFmilV_nV1TDU-TGQr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80.29411764705883" y="401.472" as="sourcePoint" />
+            <mxPoint x="223.03921568627453" y="401.472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-5" target="ekOFmilV_nV1TDU-TGQr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276.5686274509804" y="98.13759999999999" as="sourcePoint" />
+            <mxPoint x="419.3137254901961" y="98.13759999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-1" target="ekOFmilV_nV1TDU-TGQr-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.8823529411765" y="195.38304" as="sourcePoint" />
+            <mxPoint x="365.7843137254902" y="196.27519999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-35" target="ekOFmilV_nV1TDU-TGQr-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.2941176470589" y="223.04" as="sourcePoint" />
+            <mxPoint x="624.5098039215686" y="198.95167999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-18" target="ekOFmilV_nV1TDU-TGQr-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.2549019607843" y="276.5696" as="sourcePoint" />
+            <mxPoint x="455" y="276.5696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-25" target="ekOFmilV_nV1TDU-TGQr-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.6078431372549" y="53.529599999999995" as="sourcePoint" />
+            <mxPoint x="633.4313725490197" y="53.529599999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-26" target="ekOFmilV_nV1TDU-TGQr-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.4313725490197" y="44.608" as="sourcePoint" />
+            <mxPoint x="678.0392156862746" y="178.432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.858;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-27" target="ekOFmilV_nV1TDU-TGQr-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="642.3529411764706" y="53.529599999999995" as="sourcePoint" />
+            <mxPoint x="704.8039215686275" y="187.3536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-48" value="Mempunyai" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="624.5098039215686" y="303.33439999999996" width="107.05882352941177" height="53.529599999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-49" value="Pemilik" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ekOFmilV_nV1TDU-TGQr-54">
+          <mxGeometry x="633.4313725490197" y="410.3936" width="89.2156862745098" height="35.6864" as="geometry" />
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" source="ekOFmilV_nV1TDU-TGQr-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678.0392156862746" y="160.5888" as="sourcePoint" />
+            <mxPoint x="678.0392156862746" y="223.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekOFmilV_nV1TDU-TGQr-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ekOFmilV_nV1TDU-TGQr-54" target="ekOFmilV_nV1TDU-TGQr-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678.0392156862746" y="356.864" as="sourcePoint" />
+            <mxPoint x="820.7843137254903" y="356.864" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
